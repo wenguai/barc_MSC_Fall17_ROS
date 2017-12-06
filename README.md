@@ -1,4 +1,4 @@
-# Berkeley Autonomous Race Car (barc) Repo
+# Berkeley Autonomous Race Car (barc) ver. MSC_Fall_2017_Remote 
 
 The Berkeley Autonomous Race Car is a development platform for autonomous driving to achieve complex maneuvers such as drifting, lane changes, and obstacle avoidance. A 1/10 scale RC car and an embedded Linux computer make up the hardware platform of the project. This project aims to be fully open-source. The data collection process is cloud-based and brings new dimensions to the Vehicle Dynamics and Control Theory teaching and research world.
 
